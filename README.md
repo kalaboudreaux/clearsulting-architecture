@@ -5,7 +5,7 @@ Prepared by Snowflake · June 2026 · Confidential
 
 ## Deploy
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=kalaboudreaux/clearsulting-architecture&branch=main&mainModule=app.py)
 
 ## Run locally
 
